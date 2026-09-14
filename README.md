@@ -1,11 +1,16 @@
-﻿<!-- HEADER -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=YAMANURI%20PRANEETH&fontSize=52&fontColor=00ff88&fontAlignY=40&desc=~/&20software%20engineer%20in%20the%20making&descAlignY=62&descSize=18&descFontColor=64ffda&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=YAMANURI%20PRANEETH&fontSize=52&fontColor=00ff88&fontAlignY=45&desc=~/%20software%20engineer%20in%20the%20making&descAlignY=68&descSize=18&descFontColor=64ffda&animation=fadeIn" width="100%"/>
+</p>
+
+<!-- HALFTONE PORTRAIT -->
+<p align="center">
+  <img src="assets/praneeth-halftone.jpg" width="320" alt="Yamanuri Praneeth"/>
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&repeat=true&width=750&height=50&lines=B.Tech+Computer+Science+|+3rd+Year;Python+|+Java+|+SQL+|+HTML+|+CSS;Data+Analytics+|+Power+BI+|+Excel;Flutter+|+Application+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&repeat=true&width=750&height=50&lines=B.Tech+Computer+Science+|+Final+Year;Python+|+Java+|+SQL+|+HTML+|+CSS;Data+Analytics+|+Power+BI+|+Excel;Flutter+|+Application+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects" />
 </p>
 
 <!-- BADGES -->
