@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/praneeth5158"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yamanuri-praneeth/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:praneeth5158@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://praneeth5158.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://portfolio-8o78g9z4v-45017093.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
@@ -126,8 +126,8 @@ Advanced Flutter and full-stack web development
 
 <p align="center">
   <a href="https://github.com/Praneeth5158"><img src="https://img.shields.io/badge/GitHub-Praneeth5158-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/praneeth5158"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://praneeth5158.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yamanuri-praneeth/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-8o78g9z4v-45017093.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00ff88?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
 </p>
 
 > *“Build things that matter. Write code that works. Learn something new every day.”*
